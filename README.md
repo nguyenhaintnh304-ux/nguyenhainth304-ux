@@ -22,7 +22,7 @@ Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu n
 
 <p align="center">
   <!-- HƯỚNG DẪN: Thay thế đường dẫn ảnh dưới đây bằng ảnh dashboard Power BI của bạn -->
-  <img src="[https://github.com/nguyenhaintnh304-ux/E-Commerce-Online-Sales-Analysis/blob/main/images/dashboard.png?raw=true]" width="85%" alt="E-Commerce Sales Analytics Dashboard">
+  <img src="https://github.com/nguyenhaintnh304-ux/E-Commerce-Online-Sales-Analysis/blob/main/images/dashboard.png?raw=true" width="85%" alt="E-Commerce Sales Analytics Dashboard">
 </p>
 
 *   **Bối cảnh:** Một doanh nghiệp thương mại điện tử cần theo dõi doanh số, đánh giá hiệu quả sản phẩm và tìm kiếm các cơ hội tăng trưởng doanh thu theo chu kỳ thời gian và phân bổ thị trường.
@@ -74,8 +74,8 @@ Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu n
 
 ## 📫 Liên hệ 
 
-*   **Email:** [[EMAIL_CỦA_BẠN]@gmail.com](mailto:[EMAIL_CỦA_BẠN]@gmail.com)
-*   **Số điện thoại:** [[SỐ_ĐIỆN_THOẠI_CỦA_BẠN]]
+*   **Email:** [nguyenhaintnh304@gmail.com](mailto:[nguyenhaintnh304@gmail.com)
+*   **Số điện thoại:** [0967528361]
 
 ---
 *Cảm ơn bạn đã dành thời gian ghé thăm Portfolio của tôi! Chúc bạn một ngày tuyệt vời.*
