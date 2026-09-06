@@ -2,7 +2,7 @@
 
 Xin chào! Tôi là Nguyễn Quốc Hải, là một Data Analyst với đam mê khai thác các tập dữ liệu thực tế và chuyển hóa chúng thành các khuyến nghị chiến lược giúp doanh nghiệp tối ưu hóa doanh thu, cải thiện vận hành và nâng cao trải nghiệm khách hàng.
 
-Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu nổi bật của tôi, được xây dựng theo tiêu chuẩn doanh nghiệp (End-to-End) từ khâu xử lý dữ liệu kỹ thuật đến trực quan hóa và báo cáo cấp quản lý.
+Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu nổi bật của tôi, được xây dựng theo tiêu chuẩn doanh nghiệp từ khâu xử lý dữ liệu kỹ thuật đến trực quan hóa và báo cáo cấp quản lý.
 
 ---
 
@@ -37,7 +37,7 @@ Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu n
     *   **Tối ưu lịch marketing:** Doanh thu đạt đỉnh vào **Thứ Hai và Thứ Ba** (chiếm hơn 34% doanh thu tuần). Khuyến nghị đẩy mạnh các chương trình Flash Sale, quảng cáo và gửi email marketing vào các khung giờ vàng này.
     *   **Phân hóa chính sách giá (AOV) theo thành phố:** Khách hàng ở Bangalore và Kolkata cực kỳ chịu chi với giá trị đơn hàng trung bình (AOV) vượt trội (>34,000 USD/đơn), trong khi Hyderabad có AOV thấp nhất (<20,000 USD/đơn). Khuyến nghị chạy gói sản phẩm cao cấp tại Bangalore, Kolkata và chạy chương trình trợ giá, combo tiết kiệm tại Hyderabad, Ahmedabad để kích cầu.
 
-👉 **Liên kết dự án:**
+**Liên kết dự án:**
 *   [Chi tiết dự án](https://github.com/nguyenhaintnh304-ux/E-Commerce-Online-Sales-Analysis)
 *   [Dashboard](https://app.powerbi.com/links/2uwaSalKxi?ctid=948ae523-08bd-414e-a287-22da3e46c1eb&pbi_source=linkShare)
 *   [Slide thuyết trình](https://docs.google.com/presentation/d/1Z34q1Pl6uk8ppeZQdUR1pjuQ5l4iia0b8kC_W9Jw4FI/edit?slide=id.p1#slide=id.p1)
