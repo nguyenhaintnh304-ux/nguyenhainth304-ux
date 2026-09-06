@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio: Turning Raw Data into Business Value
+# NGUYỄN QUỐC HẢI - DATA ANALYST PORTDOLIO
 
 Xin chào! Tôi là Nguyễn Quốc Hải, là một Data Analyst với đam mê khai thác các tập dữ liệu thực tế và chuyển hóa chúng thành các khuyến nghị chiến lược giúp doanh nghiệp tối ưu hóa doanh thu, cải thiện vận hành và nâng cao trải nghiệm khách hàng.
 
