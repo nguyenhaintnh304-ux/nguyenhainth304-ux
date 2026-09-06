@@ -6,7 +6,7 @@ Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu n
 
 ---
 
-## 🛠️ Công cụ & Kỹ năng (Core Skillset)
+## Công cụ & Kỹ năng
 
 *   **Ngôn ngữ:** Python (Pandas, NumPy), SQL Server.
 *   **Trực quan hóa dữ liệu:** Power BI (DAX, Power Query), Excel.
@@ -15,9 +15,9 @@ Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu n
 
 ---
 
-## 🚀 Các Dự Án Tiêu Biểu
+## Các Dự Án Tiêu Biểu
 
-### 📈 Dự án 1: E-Commerce Online Sales Analysis
+### Dự án 1: E-Commerce Online Sales Analysis
 **Giải pháp tối ưu doanh thu và cá nhân hóa chính sách giá dựa trên 1.000 giao dịch thương mại điện tử.**
 
 <p align="center">
@@ -38,13 +38,13 @@ Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu n
     *   **Phân hóa chính sách giá (AOV) theo thành phố:** Khách hàng ở Bangalore và Kolkata cực kỳ chịu chi với giá trị đơn hàng trung bình (AOV) vượt trội (>34,000 USD/đơn), trong khi Hyderabad có AOV thấp nhất (<20,000 USD/đơn). Khuyến nghị chạy gói sản phẩm cao cấp tại Bangalore, Kolkata và chạy chương trình trợ giá, combo tiết kiệm tại Hyderabad, Ahmedabad để kích cầu.
 
 👉 **Liên kết dự án:**
-*   [🔗 Chi tiết dự án](https://github.com/nguyenhaintnh304-ux/E-Commerce-Online-Sales-Analysis)
-*   [📊 Dashboard](https://app.powerbi.com/links/2uwaSalKxi?ctid=948ae523-08bd-414e-a287-22da3e46c1eb&pbi_source=linkShare)
-*   [📄 Slide thuyết trình](https://docs.google.com/presentation/d/1Z34q1Pl6uk8ppeZQdUR1pjuQ5l4iia0b8kC_W9Jw4FI/edit?slide=id.p1#slide=id.p1)
+*   [Chi tiết dự án](https://github.com/nguyenhaintnh304-ux/E-Commerce-Online-Sales-Analysis)
+*   [Dashboard](https://app.powerbi.com/links/2uwaSalKxi?ctid=948ae523-08bd-414e-a287-22da3e46c1eb&pbi_source=linkShare)
+*   [Slide thuyết trình](https://docs.google.com/presentation/d/1Z34q1Pl6uk8ppeZQdUR1pjuQ5l4iia0b8kC_W9Jw4FI/edit?slide=id.p1#slide=id.p1)
 
 ---
 
-### 🛒 Dự án 2: Shopping Trends And Customer Behaviour
+### Dự án 2: Shopping Trends And Customer Behaviour
 **Xây dựng quy trình ETL làm sạch dữ liệu tự động bằng Python và tối ưu hóa chính sách thành viên của khách hàng.**
 
 <p align="center">
@@ -65,14 +65,14 @@ Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu n
     *   **Cơ hội vàng chuyển đổi Thành viên:** Có tới **2.500 khách hàng mua sắm trên 5 lần nhưng chưa đăng ký thành viên** (chỉ có 958 người đã đăng ký). Điều này chứng tỏ gói đặc quyền thành viên hiện tại chưa đủ sức hấp dẫn. Đề xuất: Thiết lập chương trình tặng điểm thưởng gấp đôi và miễn phí vận chuyển cho đơn hàng thứ 6 trở đi nếu đăng ký thẻ thành viên.
     *   **Hướng tới đúng phân khúc tuổi chủ chốt:** Nhóm người trẻ (young adults) đóng góp doanh thu cao nhất hệ thống. Doanh nghiệp nên dịch chuyển ngân sách tiếp thị sang các kênh xã hội trẻ trung để tiếp cận tối đa tệp khách hàng tiềm năng này.
 
-👉 **Liên kết dự án:**
-*   [🔗 Chi tiết dự án](https://github.com/nguyenhaintnh304-ux/Shopping-Trends-And-Customer-Behaviour)
-*   [📊 Dashboard](https://app.powerbi.com/links/Xy9Hy-o01f?ctid=948ae523-08bd-414e-a287-22da3e46c1eb&pbi_source=linkShare)
-*   [📄 Slide thuyết trình](https://docs.google.com/presentation/d/1Z34q1Pl6uk8ppeZQdUR1pjuQ5l4iia0b8kC_W9Jw4FI/edit?usp=sharing)
+**Liên kết dự án:**
+*   [Chi tiết dự án](https://github.com/nguyenhaintnh304-ux/Shopping-Trends-And-Customer-Behaviour)
+*   [Dashboard](https://app.powerbi.com/links/Xy9Hy-o01f?ctid=948ae523-08bd-414e-a287-22da3e46c1eb&pbi_source=linkShare)
+*   [Slide thuyết trình](https://docs.google.com/presentation/d/1Z34q1Pl6uk8ppeZQdUR1pjuQ5l4iia0b8kC_W9Jw4FI/edit?usp=sharing)
 
 ---
 
-## 📫 Liên hệ 
+## Liên hệ 
 
 *   **Email:** [nguyenhaintnh304@gmail.com](mailto:[nguyenhaintnh304@gmail.com)
 *   **Số điện thoại:** [0967528361]
