@@ -22,7 +22,7 @@ Dưới đây là Portfolio tổng hợp các dự án phân tích dữ liệu n
 
 <p align="center">
   <!-- HƯỚNG DẪN: Thay thế đường dẫn ảnh dưới đây bằng ảnh dashboard Power BI của bạn -->
-  <img src="[images/dashboard.png]" width="85%" alt="E-Commerce Sales Analytics Dashboard">
+  <img src="[https://github.com/nguyenhaintnh304-ux/E-Commerce-Online-Sales-Analysis/blob/main/images/dashboard.png?raw=true]" width="85%" alt="E-Commerce Sales Analytics Dashboard">
 </p>
 
 *   **Bối cảnh (Situation):** Một doanh nghiệp thương mại điện tử cần theo dõi doanh số, đánh giá hiệu quả sản phẩm và tìm kiếm các cơ hội tăng trưởng doanh thu theo chu kỳ thời gian và phân bổ thị trường.
